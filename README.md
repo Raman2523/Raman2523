@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Raman%20Dhiman&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=MCA%20Student%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&color=0:7dd3fc,100:38bdf8" width="100%"/>
 
-# Hi, I'm Raman Dhiman 👋
+# Hi, I'm Raman deep 👋
 
 ### MCA Student • AI/ML Enthusiast • Developer
 
